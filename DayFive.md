@@ -1,4 +1,4 @@
-# JavaScript Code Snippets
+# Functions in JavaScript
 
 ## Activity 1: Function Declaration
 
