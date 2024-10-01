@@ -1,0 +1,13 @@
+   
+
+#myElement {
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.highlight {
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+}
