@@ -1,0 +1,10 @@
+/* Initially display the image */
+img {
+    width: 300px;
+    height: auto;
+    cursor: pointer;
+    display: block;
+}
+.hidden {
+    display: none;
+}
