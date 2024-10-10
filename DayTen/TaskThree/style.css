@@ -1,0 +1,11 @@
+/* Styling the div */
+#colorBox {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    text-align: center;
+    line-height: 200px;
+    font-size: 20px;
+    border: 2px solid black;
+    cursor: pointer;
+}
