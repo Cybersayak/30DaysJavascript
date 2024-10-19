@@ -1,11 +1,10 @@
-/* Styling the div */
 #colorBox {
     width: 200px;
     height: 200px;
-    background-color: lightgray;
+    background-color: lightblue;
     text-align: center;
     line-height: 200px;
-    font-size: 20px;
-    border: 2px solid black;
+    border: 2px solid #000;
+    font-family: Arial, sans-serif;
     cursor: pointer;
 }

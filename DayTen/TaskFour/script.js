@@ -6,6 +6,6 @@ colorBox.addEventListener('mouseover', function() {
 });
 
 // Reset background color on mouseout
-// colorBox.addEventListener('mouseout', function() {
-//     colorBox.style.backgroundColor = 'lightblue';
-// });
+colorBox.addEventListener('mouseout', function() {
+    colorBox.style.backgroundColor = 'lightblue';
+});
